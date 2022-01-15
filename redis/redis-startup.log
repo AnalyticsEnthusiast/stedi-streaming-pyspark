@@ -151,3 +151,8 @@
 2145:C 15 Jan 2022 19:24:51.032 * DB saved on disk
 2145:C 15 Jan 2022 19:24:51.032 * RDB: 0 MB of memory used by copy-on-write
 33:M 15 Jan 2022 19:24:51.101 * Background saving terminated with success
+33:M 15 Jan 2022 19:29:52.006 * 10 changes in 300 seconds. Saving...
+33:M 15 Jan 2022 19:29:52.006 * Background saving started by pid 2159
+2159:C 15 Jan 2022 19:29:52.037 * DB saved on disk
+2159:C 15 Jan 2022 19:29:52.038 * RDB: 0 MB of memory used by copy-on-write
+33:M 15 Jan 2022 19:29:52.107 * Background saving terminated with success
