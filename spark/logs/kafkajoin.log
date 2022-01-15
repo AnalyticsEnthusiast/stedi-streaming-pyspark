@@ -1,0 +1,118 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++-----+---------+--------+-----+
+|email|birthYear|customer|score|
++-----+---------+--------+-----+
++-----+---------+--------+-----+
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++--------------------+---------+--------------------+-----+
+|               email|birthYear|            customer|score|
++--------------------+---------+--------------------+-----+
+|Angie.Smith@test.com|     1965|Angie.Smith@test.com| 26.5|
+|Spencer.Anderson@...|     1944|Spencer.Anderson@...|-14.0|
+|Craig.Habschied@t...|     1940|Craig.Habschied@t...|-12.0|
+|Eric.Aristotle@te...|     1949|Eric.Aristotle@te...| 16.5|
+|Christina.Lincoln...|     1950|Christina.Lincoln...| -4.0|
+|Jerry.Gonzalez@te...|     1938|Jerry.Gonzalez@te...|-21.5|
+|   Angie.Wu@test.com|     1946|   Angie.Wu@test.com|  3.0|
+|Santosh.Mitra@tes...|     1964|Santosh.Mitra@tes...|-33.0|
+|  Lyn.Smith@test.com|     1947|  Lyn.Smith@test.com|-33.0|
+|Suresh.Clayton@te...|     1941|Suresh.Clayton@te...| 15.5|
+|Sean.Jefferson@te...|     1937|Sean.Jefferson@te...|  4.0|
+|Christina.Gonzale...|     1948|Christina.Gonzale...| 22.0|
+|Ashley.Jefferson@...|     1939|Ashley.Jefferson@...| -4.5|
+|Frank.Lincoln@tes...|     1942|Frank.Lincoln@tes...|-12.5|
+|     Dan.Wu@test.com|     1943|     Dan.Wu@test.com|-18.5|
+|Jacob.Spencer@tes...|     1951|Jacob.Spencer@tes...| -3.5|
++--------------------+---------+--------------------+-----+
+
+-------------------------------------------
+Batch: 2
+-------------------------------------------
++--------------------+---------+--------------------+-----+
+|               email|birthYear|            customer|score|
++--------------------+---------+--------------------+-----+
+|Sean.Fibonnaci@te...|     1955|Sean.Fibonnaci@te...| -2.5|
+|Jacob.Gonzalez@te...|     1959|Jacob.Gonzalez@te...| -5.0|
+|Jane.Clayton@test...|     1954|Jane.Clayton@test...| -3.0|
+|Gail.Anderson@tes...|     1958|Gail.Anderson@tes...| -2.5|
+|Larry.Anandh@test...|     1953|Larry.Anandh@test...| -2.5|
+|Neeraj.Harris@tes...|     1952|Neeraj.Harris@tes...| -4.0|
+|  Dan.Olson@test.com|     1961|  Dan.Olson@test.com| 16.0|
+|Chris.Howard@test...|     1963|Chris.Howard@test...| 12.5|
+| Ben.Harris@test.com|     1956| Ben.Harris@test.com| -1.5|
+|  Lyn.Ahmed@test.com|     1960|  Lyn.Ahmed@test.com| -5.0|
+|Bobby.Jones@test.com|     1962|Bobby.Jones@test.com|  3.5|
++--------------------+---------+--------------------+-----+
+
+-------------------------------------------
+Batch: 3
+-------------------------------------------
++--------------------+---------+--------------------+-----+
+|               email|birthYear|            customer|score|
++--------------------+---------+--------------------+-----+
+|Spencer.Anderson@...|     1944|Spencer.Anderson@...|-39.0|
+|Eric.Aristotle@te...|     1949|Eric.Aristotle@te...| 23.0|
+|Christina.Lincoln...|     1950|Christina.Lincoln...| -2.5|
+|   Angie.Wu@test.com|     1946|   Angie.Wu@test.com|  1.5|
+|  Lyn.Smith@test.com|     1947|  Lyn.Smith@test.com| 12.5|
+|Suresh.Clayton@te...|     1941|Suresh.Clayton@te...|  4.5|
+|Christina.Gonzale...|     1948|Christina.Gonzale...|-10.5|
+|Frank.Lincoln@tes...|     1942|Frank.Lincoln@tes...| -9.5|
+|     Dan.Wu@test.com|     1943|     Dan.Wu@test.com| -1.5|
+|Jacob.Spencer@tes...|     1951|Jacob.Spencer@tes...| -3.0|
++--------------------+---------+--------------------+-----+
+
+-------------------------------------------
+Batch: 4
+-------------------------------------------
++--------------------+---------+--------------------+-----+
+|               email|birthYear|            customer|score|
++--------------------+---------+--------------------+-----+
+|Angie.Smith@test.com|     1965|Angie.Smith@test.com| 15.0|
+|Craig.Habschied@t...|     1940|Craig.Habschied@t...| 22.0|
+|Jerry.Gonzalez@te...|     1938|Jerry.Gonzalez@te...| 14.0|
+|Santosh.Mitra@tes...|     1964|Santosh.Mitra@tes...| -2.0|
+|Sean.Jefferson@te...|     1937|Sean.Jefferson@te...| 10.5|
+|Chris.Howard@test...|     1963|Chris.Howard@test...|-30.5|
+|Ashley.Jefferson@...|     1939|Ashley.Jefferson@...|-37.0|
+|Bobby.Jones@test.com|     1962|Bobby.Jones@test.com|-14.5|
++--------------------+---------+--------------------+-----+
+
+-------------------------------------------
+Batch: 5
+-------------------------------------------
++--------------------+---------+--------------------+-----+
+|               email|birthYear|            customer|score|
++--------------------+---------+--------------------+-----+
+|Sean.Fibonnaci@te...|     1955|Sean.Fibonnaci@te...| -3.5|
+|Jacob.Gonzalez@te...|     1959|Jacob.Gonzalez@te...| -4.0|
+|Jane.Clayton@test...|     1954|Jane.Clayton@test...| -2.0|
+|Gail.Anderson@tes...|     1958|Gail.Anderson@tes...| -1.0|
+|Larry.Anandh@test...|     1953|Larry.Anandh@test...| -3.5|
+|Neeraj.Harris@tes...|     1952|Neeraj.Harris@tes...| -3.5|
+|  Dan.Olson@test.com|     1961|  Dan.Olson@test.com| 18.0|
+| Ben.Harris@test.com|     1956| Ben.Harris@test.com| -2.0|
+|  Lyn.Ahmed@test.com|     1960|  Lyn.Ahmed@test.com| -6.0|
++--------------------+---------+--------------------+-----+
+
+-------------------------------------------
+Batch: 6
+-------------------------------------------
++--------------------+---------+--------------------+-----+
+|               email|birthYear|            customer|score|
++--------------------+---------+--------------------+-----+
+|Spencer.Anderson@...|     1944|Spencer.Anderson@...|  6.0|
+|Eric.Aristotle@te...|     1949|Eric.Aristotle@te...|  7.5|
+|Christina.Lincoln...|     1950|Christina.Lincoln...| -2.0|
+|   Angie.Wu@test.com|     1946|   Angie.Wu@test.com|-30.5|
+|  Lyn.Smith@test.com|     1947|  Lyn.Smith@test.com|  3.5|
+|Christina.Gonzale...|     1948|Christina.Gonzale...|-11.5|
+|     Dan.Wu@test.com|     1943|     Dan.Wu@test.com|  6.5|
+|Jacob.Spencer@tes...|     1951|Jacob.Spencer@tes...| -1.5|
++--------------------+---------+--------------------+-----+
+
