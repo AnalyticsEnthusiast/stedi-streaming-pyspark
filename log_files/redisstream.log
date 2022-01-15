@@ -1,0 +1,29 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+---------+
+|               email|birthYear|
++--------------------+---------+
+|Spencer.Gonzalez@...|     1965|
+|Larry.Olson@test.com|     1964|
+|Christina.Jeffers...|     1963|
+|Spencer.Huey@test...|     1962|
+|Dan.Gonzalez@test...|     1961|
+|Dan.Clayton@test.com|     1960|
+|  Sean.Huey@test.com|     1959|
+|Ashley.Olson@test...|     1958|
+|Christina.Clayton...|     1957|
+|Gail.Sanchez@test...|     1956|
+|   Dan.Huey@test.com|     1955|
+|Spencer.Jackson@t...|     1954|
+| John.Jones@test.com|     1953|
+|Larry.Anderson@te...|     1952|
+|Frank.Aristotle@t...|     1951|
+| Lyn.Hansen@test.com|     1950|
+|Jerry.Spencer@tes...|     1949|
+|Ashley.Jackson@te...|     1948|
+|Angie.Habschied@t...|     1947|
+|Sarah.Phillips@te...|     1946|
++--------------------+---------+
+only showing top 20 rows
+
